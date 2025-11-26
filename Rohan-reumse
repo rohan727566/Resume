@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Rohan Kumar - Resume</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.5; }
+    h1 { font-size: 32px; margin-bottom: 5px; }
+    h2 { border-bottom: 2px solid #000; padding-bottom: 3px; margin-top: 28px; }
+    .section { margin-top: 20px; }
+    .header-table { width: 100%; }
+    .header-table td { vertical-align: top; }
+    .bold { font-weight: bold; }
+    ul { margin: 8px 0; padding-left: 20px; }
+</style>
+</head>
+<body>
+
+<h1>Rohan Kumar</h1>
+<table class="header-table">
+<tr>
+<td>
+B.Tech in Computer Science (Artificial Intelligence)<br>
+Pranveer Singh Institute of Technology, Kanpur
+</td>
+<td align="right">
++91-7275669018<br>
+<a href="mailto:2k22.csai.2212823@gmail.com">2k22.csai.2212823@gmail.com</a><br>
+<a href="https://github.com/rohan727566">github.com/rohan727566</a><br>
+<a href="https://www.linkedin.com/in/rohan-kumar-807980207/">linkedin.com/in/rohan-kumar-807980207</a>
+</td>
+</tr>
+</table>
+
+<h2>Career Objective</h2>
+<p>
+Aspiring <b>AI Engineer / Machine Learning Engineer</b> with strong foundations in 
+<b>Deep Learning, Computer Vision, NLP, and Data Science</b>. Proficient in building 
+<b>end-to-end ML pipelines</b>, optimizing models for performance, and deploying AI-driven applications. 
+Seeking opportunities to apply technical expertise to design scalable, production-ready AI/ML solutions 
+with measurable business impact.
+</p>
+
+<h2>Education</h2>
+<ul>
+<li><b>B.Tech in Computer Science (Artificial Intelligence)</b> — 2022–2026 <br>
+Pranveer Singh Institute of Technology, Kanpur <br>
+Percentage: 71.91% (till 6th sem)</li>
+
+<li><b>Senior Secondary (XII) – CBSE</b> — 2021 <br>
+Percentage: 81.0%</li>
+
+<li><b>Secondary (X) – CBSE</b> — 2019 <br>
+Percentage: 88.83%</li>
+</ul>
+
+<h2>Projects</h2>
+<ul>
+<li><b>Real-Time Object Detection</b> — Feb 2024  
+<ul>
+<li>Developed a YOLO + OpenCV + TensorRT GPU-optimized object detection system.</li>
+<li>Achieved <b>92% accuracy</b> and <b>30+ FPS real-time inference</b>.</li>
+</ul>
+</li>
+
+<li><b>Spam/Ham Classification using NLP</b> — May 2024  
+<ul>
+<li>Built an ML-based email/text classifier using NLTK, TF-IDF, and NumPy.</li>
+<li>Achieved <b>96% accuracy</b> on 5000+ messages.</li>
+</ul>
+</li>
+
+<li><b>Image Classifier using CNN (CIFAR-10)</b> — Ongoing 2025  
+<ul>
+<li>Designed CNN model using TensorFlow/Keras.</li>
+<li>Currently achieving <b>82% accuracy</b>; improving generalization.</li>
+</ul>
+</li>
+</ul>
+
+<h2>Experience & Training</h2>
+<ul>
+<li><b>AI Corporate Training (Acmegrade) — 2024</b>  
+<ul>
+<li>Completed training in AI, ML, and Data Science.</li>
+<li>Built NLP Spam/Ham Classifier achieving <b>96% accuracy</b>.</li>
+<li>Learned MLOps, deployment, and API integration.</li>
+</ul>
+</li>
+</ul>
+
+<h2>Technical Skills</h2>
+<p>
+<b>Languages:</b> C++, Python, SQL, JavaScript<br>
+<b>Core CS:</b> DSA, OOP, Operating Systems<br>
+<b>Libraries/Frameworks:</b> Pandas, NumPy, Sklearn, TensorFlow, PyTorch, OpenCV, YOLO, EasyOCR, ReactJS, NextJS<br>
+<b>Tools/Platforms:</b> Git, Colab, Jupyter, VS Code, Trailhead, Windows, Linux<br>
+<b>Concepts:</b> Deep Learning, NLP, CV, Model Optimization, MLOps
+</p>
+
+<h2>Certifications</h2>
+<ul>
+<li><b>Acmegrade Corporate Training</b> — AI Program, 2024</li>
+<li><b>Infosys Springboard</b> — Python (1,2), HTML Certification</li>
+<li><b>IBM</b> — Fundamentals in AI, 2025</li>
+<li><b>Salesforce Trailhead</b> — Agentblazer Champion  
+<br>37 Badges, 10,875 Points  
+<br><a href="https://salesforce.com/trailblazer/dqq5b7klxwogdln8x9">Trailhead Profile</a></li>
+</ul>
+
+<h2>Achievements</h2>
+<ul>
+<li><b>Competitive Programming:</b> Solved 200+ problems on LeetCode; Grand Master League Code360 (Top 5%).</li>
+<li><b>Awards:</b> NIIT NGURU Excellence Award (2015-16, 2016-17); District Rank 133 in Sanskrit Exam.</li>
+</ul>
+
+</body>
+</html>
